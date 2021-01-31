@@ -1,5 +1,5 @@
 # Welcome, I'm Luca
-<img src="https://raw.githubusercontent.com/lucalas/lucalas/main/banner.png" alt="Luca Taddeo - Fullstack developer and content creator"/>
+<img src="https://raw.githubusercontent.com/lucalas/lucalas/master/Banner.png" alt="Luca Taddeo - Fullstack developer and content creator"/>
 
 I'm Luca Taddeo, **Software developer enthusiast** appasionate about **backend technologies** and trying to improve my skill about **frontend**. Self-critical, always looking for self-improvement.  
 I'd like to increase my collaborations to grow up together and share our experiences.  
