@@ -1,7 +1,7 @@
 # Welcome, I'm Luca
 <img src="https://raw.githubusercontent.com/lucalas/lucalas/master/Banner.png" alt="Luca Taddeo - Fullstack developer and content creator"/>
 
-I'm Luca Taddeo, **Software developer enthusiast** appasionate about **backend technologies** and trying to improve my skill about **frontend**. Self-critical, always looking for self-improvement.  
+I'm Luca Taddeo, **Software developer enthusiast** passionate about **backend technologies** and trying to improve my skill about **frontend**. Self-critical, always looking for self-improvement.  
 
 I'd like to increase my collaborations to grow up together and share our experiences.  
 
@@ -32,11 +32,11 @@ Carpe Diem
 
 
 ## Out of the Developers world
-🚵‍♂️ I'm trying to ride my MountainBike and be a good biker 
+🚵‍♂️ I'm trying to ride my mountain bike and be a good biker 
 
 🌍 I want to travel all over the world 
 
-🎥 I like to make Videomaker stuff and maybe in the future I could open an youtube channel
+🎥 I like to make Videomaker stuff and maybe in the future I could open a youtube channel
 
 
 ## You can Find me Here
