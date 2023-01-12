@@ -12,7 +12,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/luca-taddeo/)  and you
 Carpe Diem
 
 ## Some Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucalas&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucalas&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lucalas's GitHub Stats" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucalas&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucalas&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lucalas's GitHub Stats" />
 </a>
 
 ## Used Languages
